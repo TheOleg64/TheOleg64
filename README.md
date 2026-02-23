@@ -3,4 +3,4 @@
 I am a **novice specialist** in programming languages.
 
 ### 💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,osint)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,java)](https://skillicons.dev)
